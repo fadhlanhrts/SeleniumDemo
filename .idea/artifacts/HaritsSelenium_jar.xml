@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HaritsSelenium:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HaritsSelenium_jar</output-path>
+    <root id="archive" name="HaritsSelenium.jar">
+      <element id="module-output" name="HaritsSelenium" />
+    </root>
+  </artifact>
+</component>
